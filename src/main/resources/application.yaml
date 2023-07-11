@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb://mongoadmin:)j2*((__4BS@localhost:27017
+      database: test
